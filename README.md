@@ -1,2 +1,2 @@
-# My-first-website
-Basic HTML CSS website
+# My-Netflix-Clone
+HTML CSS website
